@@ -1,7 +1,7 @@
 # 1. Ignorar TUDO
 *
 
-# 2. Mas NÃO ignorar a pasta backups e os CSVs
+# 2. Mas NÃO ignorar a pasta backups e os CSVsa
 !/backups/
 !/backups/*.csv
 
