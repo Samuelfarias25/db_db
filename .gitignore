@@ -1,0 +1,9 @@
+# 1. Ignorar TUDO
+*
+
+# 2. Mas NÃO ignorar a pasta backups e os CSVs
+!/backups/
+!/backups/*.csv
+
+# 3. Não ignorar o próprio .gitignore (para ele ir para o repo também)
+!.gitignore
